@@ -1,0 +1,14 @@
+/Users/mchp/Documents/Developer/MJD/MJD.DAL/bin/Debug/netstandard2.0/MJD.DAL.deps.json
+/Users/mchp/Documents/Developer/MJD/MJD.DAL/bin/Debug/netstandard2.0/MJD.DAL.dll
+/Users/mchp/Documents/Developer/MJD/MJD.DAL/bin/Debug/netstandard2.0/MJD.DAL.pdb
+/Users/mchp/Documents/Developer/MJD/MJD.DAL/obj/Debug/netstandard2.0/MJD.DAL.csproj.CoreCompileInputs.cache
+/Users/mchp/Documents/Developer/MJD/MJD.DAL/obj/Debug/netstandard2.0/MJD.DAL.AssemblyInfoInputs.cache
+/Users/mchp/Documents/Developer/MJD/MJD.DAL/obj/Debug/netstandard2.0/MJD.DAL.AssemblyInfo.cs
+/Users/mchp/Documents/Developer/MJD/MJD.DAL/obj/Debug/netstandard2.0/MJD.DAL.dll
+/Users/mchp/Documents/Developer/MJD/MJD.DAL/obj/Debug/netstandard2.0/MJD.DAL.pdb
+/Users/mchp/Documents/Developer/MJD/MJD.DAL/bin/Debug/netstandard2.0/MJD.COMMON.dll
+/Users/mchp/Documents/Developer/MJD/MJD.DAL/bin/Debug/netstandard2.0/MJD.COMMON.pdb
+/Users/mchp/Documents/Developer/MJD/MJD.DAL/obj/Debug/netstandard2.0/MJD.DAL.csproj.CopyComplete
+/Users/mchp/Documents/Developer/MJD/MJD.DAL/bin/Debug/netstandard2.0/MJD.MODEL.dll
+/Users/mchp/Documents/Developer/MJD/MJD.DAL/bin/Debug/netstandard2.0/MJD.MODEL.pdb
+/Users/mchp/Documents/Developer/MJD/MJD.DAL/obj/Debug/netstandard2.0/MJD.DAL.csprojResolveAssemblyReference.cache

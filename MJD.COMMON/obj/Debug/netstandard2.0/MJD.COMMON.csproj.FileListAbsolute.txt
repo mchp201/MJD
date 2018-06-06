@@ -1,0 +1,8 @@
+/Users/mchp/Documents/Developer/MJD/MJD.COMMON/bin/Debug/netstandard2.0/MJD.COMMON.deps.json
+/Users/mchp/Documents/Developer/MJD/MJD.COMMON/bin/Debug/netstandard2.0/MJD.COMMON.dll
+/Users/mchp/Documents/Developer/MJD/MJD.COMMON/bin/Debug/netstandard2.0/MJD.COMMON.pdb
+/Users/mchp/Documents/Developer/MJD/MJD.COMMON/obj/Debug/netstandard2.0/MJD.COMMON.csproj.CoreCompileInputs.cache
+/Users/mchp/Documents/Developer/MJD/MJD.COMMON/obj/Debug/netstandard2.0/MJD.COMMON.AssemblyInfoInputs.cache
+/Users/mchp/Documents/Developer/MJD/MJD.COMMON/obj/Debug/netstandard2.0/MJD.COMMON.AssemblyInfo.cs
+/Users/mchp/Documents/Developer/MJD/MJD.COMMON/obj/Debug/netstandard2.0/MJD.COMMON.dll
+/Users/mchp/Documents/Developer/MJD/MJD.COMMON/obj/Debug/netstandard2.0/MJD.COMMON.pdb
